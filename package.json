@@ -2,8 +2,6 @@
   "name": "node-express-csrf-mvp",
   "version": "1.0.0",
   "auther": "ajhsu <im.ajhsu@gmail.com>",
-  "main": "index.js",
-  "author": "",
   "license": "MIT",
   "scripts": {
     "start": "node index.js"
